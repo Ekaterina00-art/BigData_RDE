@@ -184,5 +184,7 @@ The above line is one of the most famous lines which contains all the English la
 ```
 По заданию будем использовать MapReduce. Для начала определимся, что это такое.
 
+> Основной источник - Том Уайт Hadoop: Подробное руководство. — СПб.: Питер, 2013. — 672 с.: ил. — (Серия «Бестселлеры O’Reilly»)
+
 1. MapReduce
-2. 
+
