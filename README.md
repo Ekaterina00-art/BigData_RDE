@@ -77,12 +77,12 @@
 2. Открываем http://localhost:8088. И если мы правильно установили, то должно открыться:
 ![2023-01-05](https://user-images.githubusercontent.com/79097818/210796301-6d108081-c1db-402c-976b-3972aa0d08b0.png)
 
-## Запуск примера
+## Запуск примера №1
 
 1. Создадим проект в IDE и добавим в папки зависимостей следующие папки:
 ![2022-12-25 (1)](https://user-images.githubusercontent.com/79097818/210796815-7e448b16-de27-4c6f-87fa-af1834bb46e9.png)
 
-2. В проекте создадим файл WordCount.java с кодом:
+2. В проекте создадим файл WordCount.java с кодом (считает кол-во слов):
 ```java
 import java.io.IOException;
 import java.util.*;
@@ -164,3 +164,5 @@ The above line is one of the most famous lines which contains all the English la
 
 5. Вывод программы<br>
 ![2022-12-26 (1)](https://user-images.githubusercontent.com/79097818/210803141-33da5a88-a956-4cfa-8896-ffd77e625fbe.png)
+
+## Запуск примера №2
