@@ -162,5 +162,5 @@ The quick brown fox jumps over the lazy dog.
 The above line is one of the most famous lines which contains all the English language alphabets.
 ```
 
-5. Вывод программы
+5. Вывод программы<br>
 ![2022-12-26 (1)](https://user-images.githubusercontent.com/79097818/210803141-33da5a88-a956-4cfa-8896-ffd77e625fbe.png)
