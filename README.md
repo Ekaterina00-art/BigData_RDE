@@ -1,9 +1,10 @@
-# Изучение основ работы с Hadoop в Windows
+# РР·СѓС‡РµРЅРёРµ РѕСЃРЅРѕРІ СЂР°Р±РѕС‚С‹ СЃ Hadoop РІ Windows
 
-## Сборка Hadoop
+## РЎР±РѕСЂРєР° Hadoop
 
-1. Устанавливаем JDK
+1. РЈСЃС‚Р°РЅР°РІР»РёРІР°РµРј JDK
 
-2. Скачиваем Hadoop. Скачать можно по ссылке - https://hadoop.apache.org/releases.html
+2. РЎРєР°С‡РёРІР°РµРј Hadoop. РЎРєР°С‡Р°С‚СЊ РјРѕР¶РЅРѕ РїРѕ СЃСЃС‹Р»РєРµ - https://hadoop.apache.org/releases.html
 
-3. Извлекаем hadoop-3.1.0.tar.gz в D:\hadoop-3.1.0. Добавляем пути JDK и Hadoop в переменные окружения.
+3. РР·РІР»РµРєР°РµРј hadoop-3.1.0.tar.gz РІ РЎ:\hadoop-3.1.0. Р”РѕР±Р°РІР»СЏРµРј РїСѓС‚Рё JDK Рё Hadoop РІ РїРµСЂРµРјРµРЅРЅС‹Рµ РѕРєСЂСѓР¶РµРЅРёСЏ.
+![2022-12-26 (2)](https://user-images.githubusercontent.com/79097818/210790900-e1ffe995-de61-4ea2-8a28-d0a76b61eac7.png)
