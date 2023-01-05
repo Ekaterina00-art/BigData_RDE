@@ -150,3 +150,14 @@ public class WordCount {
 	}
 }
 ```
+3. Запустим команду jar -cvf WordCount.jar -C WordCount/, в результате которой в этой папке появится собранный .jar
+![imgonline-com-ua-Replace-color-c4bO2jiiZooeYH3](https://user-images.githubusercontent.com/79097818/210802122-75fbabea-c13d-4dfe-80ec-92049c9d71c4.jpg)
+
+4. При запущенном Hadoop запустим две команды, первая создаст папку в файловой системе Hadoop, вторая – переместит в неё файл hadoop fs -mkdir /input_dir hadoop fs -put C:/input_file.txt /input_dir 
+В файле **"input_file.txt"**:
+```
+This is the example text file for word count example also knows as hello world example of the Hadoop ecosystem.
+This example is written for the examples article of java code geek
+The quick brown fox jumps over the lazy dog.
+The above line is one of the most famous lines which contains all the English language alphabets.
+```
